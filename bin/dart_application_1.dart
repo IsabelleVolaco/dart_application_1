@@ -10,5 +10,5 @@ void exibirInfo2 ({String nome = "Julia", int idade = 22}){
 void main() {
   exibirInfo(nome:"Ana", idade: 30);
   exibirInfo2();
-  exibirInfo2(nome:"Josué");
+  exibirInfo2(nome:"Josué"); //substitui o nome 
 }
